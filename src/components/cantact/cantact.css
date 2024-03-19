@@ -1,0 +1,104 @@
+.cantact__title {
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.98px;
+  text-align: left;
+  color: rgba(33, 31, 84, 1);
+}
+
+.cantact__text {
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  max-width: 484px;
+  color: rgba(110, 113, 145, 1);
+  padding: 32px 0;
+}
+
+.btns {
+  padding-bottom: 55px;
+}
+
+.text {
+  border-bottom: 1px solid rgba(239, 240, 246, 1);
+  max-width: 484px;
+}
+
+.cantact__texts {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36.01px;
+  text-align: left;
+  color: rgba(33, 31, 84, 1);
+  padding-top: 55px;
+}
+
+.cantact__lists {
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  max-width: 444px;
+  padding: 9px 0 30px 0;
+  color: rgba(110, 113, 145, 1);
+}
+
+#cantact {
+  background-color: rgba(247, 249, 252, 1);
+  padding: 131px 0 111px 0;
+}
+
+.cantact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+label {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  color: rgba(33, 31, 84, 1);
+}
+
+input {
+  border-radius: 16px;
+  border: 1px solid rgba(239, 240, 246, 1);
+  width: 200px;
+  height: 50px;
+  box-shadow: 0 1.5px rgba(20, 20, 43, 0.08);
+}
+
+textarea {
+  border-radius: 16px;
+  border: 1px solid rgba(239, 240, 246, 1);
+  box-shadow: 0 1.5px rgba(20, 20, 43, 0.08);
+}
+
+.form {
+  max-width: 673px;
+  background-color: #fff;
+  border-radius: 16px;
+  border: 1px solid rgba(239, 240, 246, 1);
+  padding: 84px 61px 84px 61px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.cantact__btn {
+  max-width: 219px;
+}
+
+.form__name {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}

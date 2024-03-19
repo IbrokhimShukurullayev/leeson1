@@ -3,11 +3,26 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Navbar from './components/navbar/Navbar';
+import Home from './components/home/Home';
+import About from './components/about/About';
+import Services from './components/services/Services';
+import Covid from './components/covid/Covid';
+import Articles from './components/articless/Articles';
+import Cantact from './components/cantact/Cantact';
+import Footer from './components/footer/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Navbar />
+    <Home/>
+    <About/>
+    <Services/>
+    <Covid/>
+    <Articles/>
+    <Cantact/>
+    <Footer/>
   </React.StrictMode>
 );
 

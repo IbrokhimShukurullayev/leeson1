@@ -1,0 +1,76 @@
+.footer__title {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36.01px;
+  text-align: left;
+  color: rgba(33, 31, 84, 1);
+  max-width: 256px;
+}
+
+.footer {
+  padding: 140px 0;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+
+.footer__text {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  color: rgba(110, 113, 145, 1);
+  padding: 7px 0 33px 0;
+  max-width: 304px;
+}
+
+.footer__list {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  color: rgba(33, 31, 84, 1);
+  padding-bottom: 30px;
+}
+
+.list-text {
+  padding-bottom: 18px;
+}
+
+.list__text {
+  padding: 18px 0;
+}
+
+.footer__text__list {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: left;
+  color: rgba(110, 113, 145, 1);
+}
+
+.text__list {
+  max-width: 259px;
+}
+
+.footer__listss {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+  color: rgba(33, 31, 84, 1);
+}
+
+.phone__number {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36.01px;
+  text-align: left;
+  color: rgba(0, 117, 255, 1);
+}
